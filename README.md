@@ -1,4 +1,4 @@
-# VBA-code-automate-publish-as-PDF-file
+# Excel-automation;-publish-as-PDF-file
 After assigning this code to a button inside an excel sheet, its basic function is to save the sheet as a PDF file.
 Inside the code, you will be able to:
 - set which ranges will be shown in the PDF file
